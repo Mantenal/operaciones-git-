@@ -1,0 +1,8 @@
+diff --git a/hola.txt b/adios.txt
+similarity index 100%
+rename from hola.txt
+rename to adios.txt
+diff --git a/sandia.txt b/melon.txt
+similarity index 100%
+rename from sandia.txt
+rename to melon.txt
